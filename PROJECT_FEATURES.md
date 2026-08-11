@@ -4,3 +4,5 @@
 
 \## Student CGPA
 
+\## Student Department
+
