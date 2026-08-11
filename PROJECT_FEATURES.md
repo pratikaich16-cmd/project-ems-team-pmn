@@ -18,3 +18,5 @@
 
 \## Student credithours
 
+\## Student Status
+
