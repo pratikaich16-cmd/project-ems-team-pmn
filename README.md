@@ -22,3 +22,13 @@ Student Management System is a simple project used to practice Git workflow mana
 
 \-> CHANGELOG.md – History of project changes.
 
+
+
+\## Team Members
+
+\- Student 1=Pratik Aich
+
+\- Student 2=Mehedi Hossain tasnim
+
+\- Student 3=Nayeemur rahaman
+
