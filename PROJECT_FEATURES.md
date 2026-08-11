@@ -16,3 +16,5 @@
 
 \## Student Semester
 
+\## Student credithours
+
