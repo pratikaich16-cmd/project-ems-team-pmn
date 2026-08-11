@@ -28,3 +28,5 @@
 
 \## Rename student id
 
+\## Rename student name 
+
