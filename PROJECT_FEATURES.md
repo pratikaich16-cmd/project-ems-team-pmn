@@ -2,3 +2,5 @@
 
 \## Student Age
 
+\## Student CGPA
+
